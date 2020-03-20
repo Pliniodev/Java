@@ -6,12 +6,13 @@ inicialmente são exercícios simples que desenvolvem a base do aprendizado java
 ![Vida do programador](https://github.com/Pliniodev/Java/blob/master/Gt8b-L.gif)
 
 **Exercícios adicionados aqui.**
-*Cotação dolar
 
-*Controles de fluxo
-  *While
-  *For
-  *If_Else
-*Arrays
-*Criação de entidades e métodos
+* Cotação dolar
+
+* Controles de fluxo
+  * While
+  * For
+  * If_Else
+* Arrays
+* Criação de entidades e métodos
 
