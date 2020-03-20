@@ -9,11 +9,16 @@ import java.util.Arrays;
 public class ex_array7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int[] vet1 = new int[5];
-        int[] vet2 = new int[5];
-        int a = 4;
+
+        System.out.println("Quantas posições terá o vetor?");
+        int quantVet = sc.nextInt();
+
+        int[] vet1 = new int[quantVet];
+        int[] vet2 = new int[quantVet];
+
+        int a = quantVet-1;
         for (int i=0 ; i<vet1.length ; i++){
-            System.out.println("Digite um numero inteiro para a posição: "+vet1[i]);
+            System.out.println("Digite um numero inteiro para a posição: "+i);
             vet1[i] = sc.nextInt();
         }
 
